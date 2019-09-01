@@ -9,6 +9,11 @@ const proxyConfig = {
   // target: '生产环境 url', // 新系统生产环境
 }
 
+// const basePath = '/lp/',
+//   systemName = 'system_name';
+// process.env.VUE_APP_BASEPATH = basePath;
+// process.env.VUE_APP_SYSTEM = systemName;
+
 // 路径处理
 function resolve(dir) {
   return path.join(__dirname, '.', dir)

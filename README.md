@@ -1,4 +1,4 @@
-# My own vue-template for [cxn-cli](https://www.npmjs.com/package/cxn-cli)
+# Own vue-template for [cxn-cli](https://www.npmjs.com/package/cxn-cli)
 
 ## Project setup
 ```
